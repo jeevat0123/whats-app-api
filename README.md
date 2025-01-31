@@ -52,8 +52,8 @@ The application uses the `.env` file to store sensitive data. Create a `.env` fi
 
 ```plaintext
 WHATSAPP_API_URL=https://graph.facebook.com/v21.0/516737254861638/messages
-ACCESS_TOKEN=EAAR4N6hJXIEBOxV0wfcjb3JsTd6usoGwKzuEkVCWkmqnpHqXEt8mDUrUYFxzUN6mZAtOWMviN4bzkEKEuqkktpa6s8wSH1lvR6cxeC03dhZCZCGdZAUULpff8hMBcKIZD
-RECEIVER_PHONE=919176266079
+ACCESS_TOKEN=<TOKEN>
+RECEIVER_PHONE=<NUM>
 ```
 
 ### **Environment Variable Descriptions**
